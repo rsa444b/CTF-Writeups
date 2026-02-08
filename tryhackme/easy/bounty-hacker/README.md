@@ -52,6 +52,8 @@ I downloaded both to my local machine for further analysis.
 -   **task.txt:** This file contained a simple to-do list. Most importantly, it was signed by **"lin"**. Now we have a potential username. Moreover, this is a flag for one of THM's tasks.
     
 -   **locks.txt:** This file looked like a wordlist of passwords.
+
+  
 ![](./assets/Fifth.png)
 
 ![](./assets/Sixth.png)
